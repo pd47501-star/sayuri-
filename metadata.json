@@ -1,0 +1,6 @@
+{
+  "name": "Evaluación Docente",
+  "description": "Plataforma interactiva para la evaluación de aspirantes docentes de educación básica, con especial énfasis en habilidades blandas y competencias pedagógicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
